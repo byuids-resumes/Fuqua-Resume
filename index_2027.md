@@ -1,13 +1,14 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Ben Fuqua Resume
 ---
 # Brigham Young
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="fuq17002@byui.edu">fuq17002@byui.edu</a>
+<a href="https://github.com/cmbfuqua/">Git Hub page</a>
+  <a href = "https://www.linkedin.com/in/ben-fuqua-021799/> Linked In </a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
