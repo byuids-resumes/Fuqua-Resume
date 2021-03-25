@@ -2,8 +2,8 @@
 layout: resume
 title: Ben Fuqua Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Ben Fuqua
+Data Science enthusiest
 
 <div id="webaddress">
 <a href="fuq17002@byui.edu">fuq17002@byui.edu</a>
