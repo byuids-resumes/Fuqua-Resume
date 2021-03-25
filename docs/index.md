@@ -35,9 +35,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `March 5th, 2021 - Current`
 __Dynamic Range Labs__, Boise, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Leveraged SQL Databases to create datasets that would answer questions we were given
+- Used VS Code and various python packages to manipulate and visualize data. 
 
 ## Service and Work History
 
