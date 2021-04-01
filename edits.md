@@ -18,7 +18,7 @@ Data Science enthusiest
 `2020`
 __Python Programmer Certification__
 
-- Verify this certificate's authenticity at verify.openedg.org
+- Verify this certificate's authenticity at  <a href="https://verify.openedg.org/">verify.openedg.org</a>
 - Certification Code: De1P.8oBN.NUFR
 
 
